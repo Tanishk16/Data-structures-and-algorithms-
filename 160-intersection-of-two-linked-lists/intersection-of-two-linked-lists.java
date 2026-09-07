@@ -11,22 +11,18 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        if(headA == null || headB == null){
-            return null;
-        }
-        ListNode curr1 = headA;
-        ListNode result = new ListNode(0);
-        while(curr1 != null){
-            ListNode curr2 = headB;
-            while(curr2 != null){
-                if(curr1 == curr2){
-                    return curr1;
-                }
-                curr2 = curr2.next;
-            }
-            curr1 = curr1.next;
-
-        }
-        return null;
+        if(headA == null || headB == null) return null;
+    
+    ListNode a = headA;
+    ListNode b = headB;
+    
+    //if a & b have different len, then we will stop the loop after second iteration
+    while( a != b){
+    	//for the end of first iteration, we just reset the pointer to the head of another linkedlist
+        a = a == null? headB : a.next;
+        b = b == null? headA : b.next;    
+    }
+    
+    return a;
     }
 }
