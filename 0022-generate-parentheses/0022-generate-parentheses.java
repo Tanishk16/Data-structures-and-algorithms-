@@ -1,24 +1,27 @@
-class Solution { 
-    public List<String> generateParenthesis(int n) { 
-        List<String> ans = new ArrayList<>();
-        StringBuilder cur = new StringBuilder();
-        dfs(n, n, cur, ans);
-        return ans;
+class Solution {
+    List<String> result  = new ArrayList<>();
+    public List<String> generateParenthesis(int n) {
+        int open = 0;
+        int close = 0;
+        solve(new StringBuilder(),n,open,close);
+        return result;
     }
-    private void dfs(int open, int close, StringBuilder cur, List<String> ans) {
-        if (open == 0 && close == 0) {
-            ans.add(cur.toString());
+    public void solve(StringBuilder curr, int n , int open, int close){
+        if(curr.length() == 2*n){
+            result.add(curr.toString());
             return;
         }
-        if (open > 0) {
-            cur.append('(');
-            dfs(open - 1, close, cur, ans);
-            cur.deleteCharAt(cur.length() - 1);
+
+        if(open < n){
+            curr.append('(');
+            solve(curr,n, open+1, close);
+            curr.deleteCharAt(curr.length()-1);
         }
-        if (close > open) {
-            cur.append(')');
-            dfs(open, close - 1, cur, ans);
-            cur.deleteCharAt(cur.length() - 1);
+        if(close < open){
+            curr.append(')');
+            solve(curr,n, open, close+1);
+            curr.deleteCharAt(curr.length() -1);
         }
     }
+    
 }
