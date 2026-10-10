@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0040-combination-sum-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,8 +56,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
