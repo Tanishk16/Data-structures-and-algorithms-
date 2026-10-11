@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/1021-remove-outermost-parentheses) |
@@ -78,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2778-sum-of-squares-of-special-elements) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
