@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0040-combination-sum-ii) |
+| [0200-number-of-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -127,16 +129,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tanishk16/Data-structures-and-algorithms-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
